@@ -1,4 +1,5 @@
-ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@chthxyz - 424
+ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@chthxyz - 425
+ss://e5408561-3874-4d41-a744-0cd0dfdb86c8@51.89.11.94:443?encryption=auto&headerType=http&host=51.89.11.94&security=none&type=tcp#@chthxyz - 424
 ss://e070e567-7996-45a9-9016-0143420946ef@d2fog4flcfgb8c.cloudfront.net:443?encryption=auto&path=%2F8536cb1926c24bbc99d7bd93350ec564&security=tls&type=ws#@chthxyz - 423
 ss://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@chthxyz - 422
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#@chthxyz - 421
