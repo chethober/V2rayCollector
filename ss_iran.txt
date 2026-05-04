@@ -1,5 +1,6 @@
-ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@chthxyz - 289
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@chthxyz - 288
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@chthxyz - 290
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@chthxyz - 289
+ss://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#@chthxyz - 288
 ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@chthxyz - 287
 ss://ae862e1d-3b8c-443a-027b-37c6c69ef43c@45.192.101.134:9527?encryption=auto&security=none&type=tcp#@chthxyz - 286
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@chthxyz - 285
@@ -273,12 +274,12 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4Mkh
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ@142.171.65.106:8388#@chthxyz - 17
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#@chthxyz - 16
 ss://94dcf7bb-8074-4714-9e33-bbfddf37fc5c@172.64.148.235:2087?security=tls&sni=cloudddda.officialvpn.shop&type=ws&host=cloudddda.officialvpn.shop&path=/&packetEncoding=xudp#@chthxyz - 15
-ss://8c99e6bf-a701-4534-cdde-abecd1d6826f@117.18.125.183:57460?encryption=auto&security=none&type=tcp#@chthxyz - 14
-ss://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto&host=jp02.a0a.xyz&path=%2Fcctv13.m3u8&security=none&type=ws#@chthxyz - 13
-ss://3171ac5c-d746-4298-82e0-d46f2f5aa51f@www.shopify.com:80?encryption=auto&host=de.gfw.hidns.co&path=%2Fdanfeng&security=none&type=ws#@chthxyz - 12
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.68:30082?encryption=auto&security=none&type=tcp#@chthxyz - 11
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.67:30082?encryption=auto&security=none&type=tcp#@chthxyz - 10
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.37:30082?encryption=auto&security=none&type=tcp#@chthxyz - 9
+ss://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto&host=jp02.a0a.xyz&path=%2Fcctv13.m3u8&security=none&type=ws#@chthxyz - 14
+ss://3171ac5c-d746-4298-82e0-d46f2f5aa51f@www.shopify.com:80?encryption=auto&host=de.gfw.hidns.co&path=%2Fdanfeng&security=none&type=ws#@chthxyz - 13
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.68:30082?encryption=auto&security=none&type=tcp#@chthxyz - 12
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.67:30082?encryption=auto&security=none&type=tcp#@chthxyz - 11
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.37:30082?encryption=auto&security=none&type=tcp#@chthxyz - 10
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.35:30082?encryption=auto&security=none&type=tcp#@chthxyz - 9
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.51:30082?encryption=auto&security=none&type=tcp#@chthxyz - 8
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.49:30082?encryption=auto&security=none&type=tcp#@chthxyz - 7
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.138.16.62:30082?encryption=auto&security=none&type=tcp#@chthxyz - 6
