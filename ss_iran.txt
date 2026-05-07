@@ -1,7 +1,7 @@
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@chthxyz - 284
-ss://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#@chthxyz - 283
-ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@chthxyz - 282
-ss://ae862e1d-3b8c-443a-027b-37c6c69ef43c@45.192.101.134:9527?encryption=auto&security=none&type=tcp#@chthxyz - 281
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@chthxyz - 284
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@chthxyz - 283
+ss://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#@chthxyz - 282
+ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@chthxyz - 281
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@chthxyz - 280
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#@chthxyz - 279
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#@chthxyz - 278
@@ -277,8 +277,8 @@ ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.37:30082?encryption=auto&secur
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.35:30082?encryption=auto&security=none&type=tcp#@chthxyz - 8
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.51:30082?encryption=auto&security=none&type=tcp#@chthxyz - 7
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.49:30082?encryption=auto&security=none&type=tcp#@chthxyz - 6
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.138.16.62:30082?encryption=auto&security=none&type=tcp#@chthxyz - 5
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.138.16.58:30082?encryption=auto&security=none&type=tcp#@chthxyz - 4
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@194.87.77.250:30082?encryption=auto&security=none&type=tcp#@chthxyz - 3
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.9.205:30082?encryption=auto&security=none&type=tcp#@chthxyz - 2
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.189:30082?encryption=auto&security=none&type=tcp#@chthxyz - 1
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.138.16.58:30082?encryption=auto&security=none&type=tcp#@chthxyz - 5
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@194.87.77.250:30082?encryption=auto&security=none&type=tcp#@chthxyz - 4
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.9.205:30082?encryption=auto&security=none&type=tcp#@chthxyz - 3
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.189:30082?encryption=auto&security=none&type=tcp#@chthxyz - 2
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.188:30082?encryption=auto&security=none&type=tcp#@chthxyz - 1
