@@ -1,6 +1,4 @@
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.9:180?encryption=auto&security=none&type=tcp#@chthxyz - 266
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#@chthxyz - 265
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@chthxyz - 264
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#@chthxyz - 264
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@chthxyz - 263
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#@chthxyz - 262
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#@chthxyz - 261
@@ -259,8 +257,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NWROcEV6aUJ4L2JEOWM5U0dYaTNldDhodm5YVlpvdVZ
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0%3D@adas-polo-ba-mahi.kotlet.org:2053#@chthxyz - 8
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0%3D@94.183.173.225:443#@chthxyz - 7
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#@chthxyz - 6
-ss://738c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#@chthxyz - 5
-ss://638c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#@chthxyz - 4
-ss://0d9bd1bc-6d14-44f2-8bfa-dd6210d1b14f@104.168.1.102:8222?encryption=auto&security=none&type=ws#@chthxyz - 3
+ss://94dcf7bb-8074-4714-9e33-bbfddf37fc5c@172.64.148.235:2087?security=tls&sni=cloudddda.officialvpn.shop&type=ws&host=cloudddda.officialvpn.shop&path=/&packetEncoding=xudp#@chthxyz - 5
+ss://738c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#@chthxyz - 4
+ss://638c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#@chthxyz - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#@chthxyz - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@213.156.141.52:22324?encryption=auto&security=none&type=tcp#@chthxyz - 1
